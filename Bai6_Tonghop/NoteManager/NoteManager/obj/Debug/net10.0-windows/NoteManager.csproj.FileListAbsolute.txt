@@ -1,0 +1,17 @@
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\bin\Debug\net10.0-windows\NoteManager.exe
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\bin\Debug\net10.0-windows\NoteManager.deps.json
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\bin\Debug\net10.0-windows\NoteManager.runtimeconfig.json
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\bin\Debug\net10.0-windows\NoteManager.dll
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\bin\Debug\net10.0-windows\NoteManager.pdb
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.FormChinh.resources
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.FormGhiChu.resources
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.dll
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\refint\NoteManager.dll
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.pdb
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\NoteManager.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\NoteManager\NoteManager\obj\Debug\net10.0-windows\ref\NoteManager.dll
