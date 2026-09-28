@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\bin\Debug\net10.0-windows\FormDangKy.exe
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\bin\Debug\net10.0-windows\FormDangKy.deps.json
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\bin\Debug\net10.0-windows\FormDangKy.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\bin\Debug\net10.0-windows\FormDangKy.dll
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\bin\Debug\net10.0-windows\FormDangKy.pdb
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.FormDangKy.resources
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.dll
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\refint\FormDangKy.dll
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.pdb
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\FormDangKy.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormDangKy\FormDangKy\obj\Debug\net10.0-windows\ref\FormDangKy.dll
