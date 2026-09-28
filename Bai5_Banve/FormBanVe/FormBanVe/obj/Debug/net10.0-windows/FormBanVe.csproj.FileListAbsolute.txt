@@ -1,0 +1,17 @@
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\bin\Debug\net10.0-windows\FormBanVe.exe
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\bin\Debug\net10.0-windows\FormBanVe.deps.json
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\bin\Debug\net10.0-windows\FormBanVe.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\bin\Debug\net10.0-windows\FormBanVe.dll
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\bin\Debug\net10.0-windows\FormBanVe.pdb
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.FormBanVe.resources
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.FormChonGhe.resources
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.dll
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\refint\FormBanVe.dll
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.pdb
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\FormBanVe.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormBanVe\FormBanVe\obj\Debug\net10.0-windows\ref\FormBanVe.dll
