@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\bin\Debug\net10.0-windows\FormNhapDiem.exe
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\bin\Debug\net10.0-windows\FormNhapDiem.deps.json
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\bin\Debug\net10.0-windows\FormNhapDiem.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\bin\Debug\net10.0-windows\FormNhapDiem.dll
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\bin\Debug\net10.0-windows\FormNhapDiem.pdb
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.FormNhapDiem.resources
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.dll
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\refint\FormNhapDiem.dll
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.pdb
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\FormNhapDiem.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormNhapDiem\FormNhapDiem\obj\Debug\net10.0-windows\ref\FormNhapDiem.dll
