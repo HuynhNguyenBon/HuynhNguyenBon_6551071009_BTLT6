@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\bin\Debug\net10.0-windows\FormDatPhong.exe
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\bin\Debug\net10.0-windows\FormDatPhong.deps.json
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\bin\Debug\net10.0-windows\FormDatPhong.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\bin\Debug\net10.0-windows\FormDatPhong.dll
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\bin\Debug\net10.0-windows\FormDatPhong.pdb
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.FormDatPhong.resources
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.dll
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\refint\FormDatPhong.dll
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.pdb
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\FormDatPhong.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormDatPhong\FormDatPhong\obj\Debug\net10.0-windows\ref\FormDatPhong.dll
