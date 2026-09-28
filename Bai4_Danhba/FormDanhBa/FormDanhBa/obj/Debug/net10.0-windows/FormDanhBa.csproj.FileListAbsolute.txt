@@ -1,0 +1,16 @@
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.FormDanhBa.resources
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.csproj.GenerateResource.cache
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.GeneratedMSBuildEditorConfig.editorconfig
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.AssemblyInfoInputs.cache
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.AssemblyInfo.cs
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.csproj.CoreCompileInputs.cache
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\bin\Debug\net10.0-windows\FormDanhBa.exe
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\bin\Debug\net10.0-windows\FormDanhBa.deps.json
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\bin\Debug\net10.0-windows\FormDanhBa.runtimeconfig.json
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\bin\Debug\net10.0-windows\FormDanhBa.dll
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\bin\Debug\net10.0-windows\FormDanhBa.pdb
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.dll
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\refint\FormDanhBa.dll
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.pdb
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\FormDanhBa.genruntimeconfig.cache
+E:\Baitapthayduong\Học C#\FormDanhBa\FormDanhBa\obj\Debug\net10.0-windows\ref\FormDanhBa.dll
